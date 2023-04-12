@@ -1,6 +1,6 @@
 # WebWorkers, ServiceWorkers
 
-![](./pic/Heroku.png) [[Heroku](https://workers-loading-styling-backend.herokuapp.com/)]
+![](./pic/Heroku.png) [[Heroku](https://workers-loading-styling-backen.herokuapp.com/)]
  
 ---
 
